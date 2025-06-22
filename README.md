@@ -4,8 +4,7 @@ A comprehensive desktop-based management system designed to simulate the workflo
 
 ---
 ## 📽️ Project Demo  
-**📽️ [Click here to watch the demo video]([https://your-link.com](https://drive.google.com/file/d/1nKDc1KFhkt4ejh6Ow7Z4vUUF8mGbG8J2/view?usp=sharing))**
-
+**📽️ [Click here to watch the demo video](https://drive.google.com/file/d/1nKDc1KFhkt4ejh6Ow7Z4vUUF8mGbG8J2/view?usp=sharing)**
 
 ## 🛠 Technologies Used
 
